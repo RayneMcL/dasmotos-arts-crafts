@@ -1,0 +1,32 @@
+h1 {
+    background-image: url("/resources/images/pattern.jpg");
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: white;
+
+}
+
+#brushes-heading {
+    background-color: mediumspringgreen;
+}
+
+#frames-heading {
+    background-color: lightcoral;
+}
+
+#paint-heading {
+    background-color: skyblue;
+}
+
+span {
+    color: blue;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+}
